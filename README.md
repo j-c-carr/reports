@@ -1,1 +1,1 @@
-A place to keep written reports
+Course papers and projects, sometimes written with friends.
