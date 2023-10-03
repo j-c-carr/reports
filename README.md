@@ -1,4 +1,4 @@
-Course papers and projects, sometimes written with friends
+Course papers and projects
 
 * **Policy Gradient Methods for Continuous Control Tasks**. Will one Mujoco Hopper rule them all? (probably, and it's the SAC)
 * **Value Function Approximation with Temporal Difference Learning**. Why do we know so little about the theoretical properties of TD(λ)?
